@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     marginTop: 2,
   },
   globeContainer: {
-    height: 300,
+    height: 420,
     marginBottom: SPACING.md,
   },
   infoContainer: {
@@ -81,6 +81,6 @@ const styles = StyleSheet.create({
     paddingBottom: SPACING.xxl,
   },
   bottomSpacer: {
-    height: 100,
+    height: 120,
   },
 });
